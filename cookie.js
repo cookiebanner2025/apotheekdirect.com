@@ -81,7 +81,7 @@ function isEEAVisitor() {
 
 const config = {
     // Domain restriction
-    allowedDomains: ['apotheekdirect.com'],
+    allowedDomains: [''],
     
     // Privacy policy URL (configurable)
     privacyPolicyUrl: 'https://apotheekdirect.com/#privacy-policy', // Add your full privacy policy URL here
