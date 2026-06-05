@@ -81,7 +81,7 @@ function isEEAVisitor() {
 
 const config = {
     // Domain restriction
-    allowedDomains: [],
+    allowedDomains: [''],
     
     // Privacy policy URL (configurable)
     privacyPolicyUrl: 'https://apotheekdirect.com/#privacy-policy', // Add your full privacy policy URL here
@@ -267,11 +267,11 @@ geoConfig: {
     transition: 'all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1) !important',
         
        accept: {
-    background: '#37a4a8 !important',
+    background: '#4FD1C5 !important',
     color: '#ffffff !important',
-    border: '1px solid #37a4a8 !important',
+    border: '1px solid #4FD1C5 !important',
     hover: {
-        background: '#37a4a8 !important',
+        background: '#4FD1C5 !important',
         color: '#ffffff !important',
         transform: 'translateY(-1px) !important'
     }
